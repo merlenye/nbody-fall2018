@@ -1,12 +1,12 @@
 This is analysis.txt
-Replace this line with your name
-Replace this line with your netid
+Merle Nye
+min8
 
 Copy/paste the output of your simulation when using planets.txt,
 running the simulation for 1,000,000 (one  million) seconds, and
 with a time-step/dt value of 25,000
 
-(replace with copy/paste)
+For some reason after I uploaded the project to get my consle only gets "looking for git in etc..." I will go into TA hours tomorrow to figure out why, but I'm opting to turn this in on time and possibly drop some analysis points due to this
 
 Copy/paste the output of your simulation when using planets.txt,
 running the simulation for 2,000,000 (one  million) seconds, and
